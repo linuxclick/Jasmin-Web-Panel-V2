@@ -24,7 +24,7 @@ coreschema==0.0.4
 cryptography>=3.2
 daphne==2.3.0
 defusedxml==0.6.0
-django>=3.1.12
+django>=4.2.27
 django-3-jet==1.0.8
 django-autoslug==1.9.4
 django-crequest==2018.5.11
@@ -75,13 +75,13 @@ requests==2.22.0
 requests-oauthlib==1.2.0
 simplejson==3.17.0
 six==1.12.0
-sqlparse==0.3.0
+sqlparse==0.5.4
 tablib==0.13.0
 Twisted==20.3.0
 txaio==18.8.1
 typed-ast==1.4.0
 uritemplate==3.0.1
-urllib3==1.25.3
+urllib3==2.6.0
 vine==1.3.0
 wrapt==1.11.2
 xlrd==1.2.0
